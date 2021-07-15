@@ -1,0 +1,21 @@
+.header
+{
+    background-color: #AB88FF;
+    width: 100%;
+    height: 80px;
+}
+.header__img
+{
+    width: 200px;
+    margin: 10px;
+    margin-left: 5px;
+}
+.header__menu
+{
+    margin-right: 30px;
+}
+body
+{
+    margin: 0%;
+    background-color: #AB88FF;
+}
