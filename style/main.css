@@ -147,7 +147,7 @@ section .main__title
 {
     background: linear-gradient(to top, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0) 100%);
     font-size: 10px;
-    opacity: 0.1;
+    opacity: 0;
     transition: 450ms opacity;
     padding: 10px;
     position: absolute;
@@ -159,7 +159,7 @@ section .main__title
 .carousel-item__detail--titulo
 {
     font-size: 10px;
-    opacity: 1;
+    opacity: 0;
     padding: 10px;
     position: absolute;
     top: 0;
@@ -170,7 +170,7 @@ section .main__title
 .carousel-item__detail--subtitulo
 {
     font-size: 10px;
-    opacity: 1;
+    opacity: 0;
     padding: 10px;
     position: absolute;
     top: 0;
