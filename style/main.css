@@ -76,6 +76,15 @@ section .main__title
     font-size: 25px;
     text-align: center;
 }
+.categories__title
+{
+    color: white;
+    font-family: 'Muli', sans-serif;
+    font-size: 20px;
+    margin-left: 40px;
+    position: absolute;
+    width: 100%;
+}
 .input
 {
   background-color: rgba(255, 255,255, 0.1);  
@@ -177,4 +186,11 @@ section .main__title
     bottom: 0;
     left: 0;
     right: 0;
+}
+.footer a
+{
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+    padding-left: 30px;
 }
