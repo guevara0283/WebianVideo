@@ -59,6 +59,15 @@
     margin: 0px;
     color: white;
 }
+.login__container
+{
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 130px;
+    color: white;
+}
 body
 {
     margin: 0%;
